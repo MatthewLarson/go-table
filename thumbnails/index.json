@@ -8,6 +8,24 @@
       "width": 256,
       "height": 256
     },
+    "media/cover-thumb.webp": {
+      "inputHash": "8f3bbe51afe5eb98",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "754b570c061f0657",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "d2a925ce0caf6908",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
     "models/go-table.web.glb": {
       "inputHash": "37b9bcaac9927031",
       "file": "thumbnails/models/go-table.web.glb.webp",

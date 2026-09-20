@@ -8,6 +8,9 @@
     "setup": "setup.json"
   },
   "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
     "models/go-table.web.glb",
     "models/go-table.web.meta.json",
     "textures/go-table-web/image-0-c33ec0f0.webp",
@@ -45,6 +48,22 @@
         "acceptedAt": "2026-09-20T19:55:42.359Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-c29c3d92-0283-4e82-8756-41212597bdcf",
+      "paths": [
+        "media/screenshot-0.webp",
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "title": "Go Table Photos",
+      "recordedAt": "2026-09-20T20:06:31.012Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T20:06:31.012Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "slug": "go-table",
@@ -54,5 +73,17 @@
   "players": {
     "min": 1,
     "max": 4
-  }
+  },
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0035211296706855032,
+        "w": 1,
+        "h": 0.9676810865191148
+      }
+    }
+  ]
 }
