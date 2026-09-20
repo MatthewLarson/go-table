@@ -21,16 +21,13 @@
   "tags": [],
   "credits": [
     {
-      "id": "credit-cae55122-70bf-4739-9ad9-3c6ebf1e85d6",
+      "id": "credit-99b4129f-5b72-4964-a5df-7cab0b36afb6",
       "paths": [
-        "models/go_ghess_board-4k-materialtest.glb",
-        "models/go_ghess_board-4k-materialtest.meta.json",
-        "textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png",
-        "textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png",
-        "textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png",
-        "textures/go-ghess-board-4k-materialtest/normal-e52858a4.png",
-        "textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png",
-        "textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png"
+        "models/go-table.web.glb",
+        "models/go-table.web.meta.json",
+        "textures/go-table-web/image-0-c33ec0f0.webp",
+        "textures/go-table-web/image-1-fb3a26ad.webp",
+        "textures/go-table-web/image-2-384a886a.webp"
       ],
       "origin": "third-party",
       "title": "Go Ghess Board-4K-MaterialTest",
@@ -39,10 +36,10 @@
       "sourceUrl": "https://sketchfab.com/3d-models/go-ghess-board-4k-materialtest-e7c17918e0314d7f8dfd385a71141e27",
       "licenseName": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "recordedAt": "2026-09-20T19:33:35.354Z",
+      "recordedAt": "2026-09-20T19:55:42.359Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T19:33:35.354Z",
+        "acceptedAt": "2026-09-20T19:55:42.359Z",
         "signedName": "Matt Larson"
       }
     }
