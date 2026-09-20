@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0",
+  "id": "go-table",
+  "name": "Go Table",
+  "version": "0.1.0",
+  "type": "table-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "models/go-table.web.glb",
+    "models/go-table.web.meta.json",
+    "textures/go-table-web/image-0-c33ec0f0.webp",
+    "textures/go-table-web/image-1-fb3a26ad.webp",
+    "textures/go-table-web/image-2-384a886a.webp"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "go",
+    "wooden"
+  ],
+  "credits": [
+    {
+      "id": "credit-99b4129f-5b72-4964-a5df-7cab0b36afb6",
+      "paths": [
+        "models/go-table.web.glb",
+        "models/go-table.web.meta.json",
+        "textures/go-table-web/image-0-c33ec0f0.webp",
+        "textures/go-table-web/image-1-fb3a26ad.webp",
+        "textures/go-table-web/image-2-384a886a.webp"
+      ],
+      "origin": "third-party",
+      "title": "Go Ghess Board-4K-MaterialTest",
+      "creator": "chiwei",
+      "creatorUrl": "https://sketchfab.com/chiwei2333",
+      "sourceUrl": "https://sketchfab.com/3d-models/go-ghess-board-4k-materialtest-e7c17918e0314d7f8dfd385a71141e27",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "recordedAt": "2026-09-20T19:55:42.359Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T19:55:42.359Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-c29c3d92-0283-4e82-8756-41212597bdcf",
+      "paths": [
+        "media/screenshot-0.webp",
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "title": "Go Table Photos",
+      "recordedAt": "2026-09-20T20:06:31.012Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T20:06:31.012Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "go-table",
+  "summary": "Go Table",
+  "description": "Go Table",
+  "category": "table-square",
+  "players": {
+    "min": 1,
+    "max": 4
+  },
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0035211296706855032,
+        "w": 1,
+        "h": 0.9676810865191148
+      }
+    }
+  ]
+}

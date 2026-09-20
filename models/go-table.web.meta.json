@@ -1,0 +1,12 @@
+{
+  "rotation": {
+    "x": 0,
+    "y": 0,
+    "z": 90
+  },
+  "locked": true,
+  "materialSlots": {
+    "tai_t": "mat-3a103782-3daa-4ab4-a6e7-a83b1709d92f"
+  },
+  "lightmapStatic": true
+}
