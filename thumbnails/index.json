@@ -1,30 +1,5 @@
 {
   "version": 1,
   "rendererVersion": 1,
-  "entries": {
-    "@materials/mat-ceiling": {
-      "inputHash": "220ee3bdf8d37625",
-      "file": "thumbnails/@materials/mat-ceiling.webp",
-      "width": 256,
-      "height": 256
-    },
-    "@materials/mat-default": {
-      "inputHash": "eccf03f485688ce9",
-      "file": "thumbnails/@materials/mat-default.webp",
-      "width": 256,
-      "height": 256
-    },
-    "@materials/mat-floor": {
-      "inputHash": "4faeb6a28ac0884c",
-      "file": "thumbnails/@materials/mat-floor.webp",
-      "width": 256,
-      "height": 256
-    },
-    "@materials/mat-wall": {
-      "inputHash": "8b1c33f064be0752",
-      "file": "thumbnails/@materials/mat-wall.webp",
-      "width": 256,
-      "height": 256
-    }
-  }
+  "entries": {}
 }
