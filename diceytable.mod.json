@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "go-table",
+  "name": "Go Table",
+  "version": "0.1.0",
+  "type": "table-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "models/go_ghess_board-4k-materialtest.glb",
+    "models/go_ghess_board-4k-materialtest.meta.json",
+    "textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png",
+    "textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png",
+    "textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png",
+    "textures/go-ghess-board-4k-materialtest/normal-e52858a4.png",
+    "textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png",
+    "textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [],
+  "credits": [
+    {
+      "id": "credit-cae55122-70bf-4739-9ad9-3c6ebf1e85d6",
+      "paths": [
+        "models/go_ghess_board-4k-materialtest.glb",
+        "models/go_ghess_board-4k-materialtest.meta.json",
+        "textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png",
+        "textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png",
+        "textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png",
+        "textures/go-ghess-board-4k-materialtest/normal-e52858a4.png",
+        "textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png",
+        "textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png"
+      ],
+      "origin": "third-party",
+      "title": "Go Ghess Board-4K-MaterialTest",
+      "creator": "chiwei",
+      "creatorUrl": "https://sketchfab.com/chiwei2333",
+      "sourceUrl": "https://sketchfab.com/3d-models/go-ghess-board-4k-materialtest-e7c17918e0314d7f8dfd385a71141e27",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "recordedAt": "2026-09-20T19:33:35.354Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T19:33:35.354Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ]
+}

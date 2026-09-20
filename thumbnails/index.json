@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-00af9e94-7712-47be-acb1-98969b405a8f": {
+      "inputHash": "ec9a51bfa7f1efdb",
+      "file": "thumbnails/@materials/mat-00af9e94-7712-47be-acb1-98969b405a8f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ad82de9b-7606-4f0e-abc9-ffaeff3f9ced": {
+      "inputHash": "60470bd036204360",
+      "file": "thumbnails/@materials/mat-ad82de9b-7606-4f0e-abc9-ffaeff3f9ced.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ceiling": {
+      "inputHash": "220ee3bdf8d37625",
+      "file": "thumbnails/@materials/mat-ceiling.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-default": {
+      "inputHash": "eccf03f485688ce9",
+      "file": "thumbnails/@materials/mat-default.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-floor": {
+      "inputHash": "4faeb6a28ac0884c",
+      "file": "thumbnails/@materials/mat-floor.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-wall": {
+      "inputHash": "8b1c33f064be0752",
+      "file": "thumbnails/@materials/mat-wall.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/go_ghess_board-4k-materialtest.glb": {
+      "inputHash": "5802f592a50cf829",
+      "file": "thumbnails/models/go_ghess_board-4k-materialtest.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png": {
+      "inputHash": "5d4f6213f450e3d9",
+      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png": {
+      "inputHash": "b6030e28437adf11",
+      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png": {
+      "inputHash": "d29ee5140fb12608",
+      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-ghess-board-4k-materialtest/normal-e52858a4.png": {
+      "inputHash": "cd786dbbc7ac1e1f",
+      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/normal-e52858a4.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png": {
+      "inputHash": "d3f0217c6d8ac6cc",
+      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png": {
+      "inputHash": "bfd7ad4a8de25ecf",
+      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}
