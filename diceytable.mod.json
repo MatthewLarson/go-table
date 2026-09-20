@@ -7,16 +7,7 @@
   "entry": {
     "setup": "setup.json"
   },
-  "assets": [
-    "models/go_ghess_board-4k-materialtest.glb",
-    "models/go_ghess_board-4k-materialtest.meta.json",
-    "textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png",
-    "textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png",
-    "textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png",
-    "textures/go-ghess-board-4k-materialtest/normal-e52858a4.png",
-    "textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png",
-    "textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png"
-  ],
+  "assets": [],
   "compatibility": {
     "engine": ">=0.1 <1.0"
   },
