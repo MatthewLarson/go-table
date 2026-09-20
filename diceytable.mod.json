@@ -18,7 +18,10 @@
     "engine": ">=0.1 <1.0"
   },
   "license": "MIT",
-  "tags": [],
+  "tags": [
+    "go",
+    "wooden"
+  ],
   "credits": [
     {
       "id": "credit-99b4129f-5b72-4964-a5df-7cab0b36afb6",
@@ -43,5 +46,13 @@
         "signedName": "Matt Larson"
       }
     }
-  ]
+  ],
+  "slug": "go-table",
+  "summary": "Go Table",
+  "description": "Go Table",
+  "category": "table-square",
+  "players": {
+    "min": 1,
+    "max": 4
+  }
 }

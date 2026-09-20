@@ -1,8 +1,12 @@
 # Go Table
 
-**Go Table** is a table pack for [DiceyTable](https://diceytable.com) — a free physics tabletop you play in your browser. Add it to any table, with no download required.
+**Go Table** is a Square table pack for [DiceyTable](https://diceytable.com) — a free physics tabletop you play in your browser. Add it to any table, with no download required.
 
 **[Get Go Table on DiceyTable](https://diceytable.com/mods/go-table)**
+
+---
+
+Go Table
 
 ---
 
