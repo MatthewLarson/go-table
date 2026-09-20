@@ -9,8 +9,14 @@
       "height": 256
     },
     "models/go-table.web.glb": {
-      "inputHash": "adb91e9169843fd7",
+      "inputHash": "37b9bcaac9927031",
       "file": "thumbnails/models/go-table.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/go-table.web.glb": {
+      "inputHash": "3fa445849ffea012",
+      "file": "thumbnails/originals/go-table.web.glb.webp",
       "width": 256,
       "height": 256
     },
