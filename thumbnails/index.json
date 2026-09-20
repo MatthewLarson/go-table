@@ -1,5 +1,36 @@
 {
   "version": 1,
   "rendererVersion": 1,
-  "entries": {}
+  "entries": {
+    "@materials/mat-3a103782-3daa-4ab4-a6e7-a83b1709d92f": {
+      "inputHash": "0b0e81759528a106",
+      "file": "thumbnails/@materials/mat-3a103782-3daa-4ab4-a6e7-a83b1709d92f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/go-table.web.glb": {
+      "inputHash": "adb91e9169843fd7",
+      "file": "thumbnails/models/go-table.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-table-web/image-0-c33ec0f0.webp": {
+      "inputHash": "f02be37a1e68956a",
+      "file": "thumbnails/textures/go-table-web/image-0-c33ec0f0.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-table-web/image-1-fb3a26ad.webp": {
+      "inputHash": "5cc3a7854b81200a",
+      "file": "thumbnails/textures/go-table-web/image-1-fb3a26ad.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/go-table-web/image-2-384a886a.webp": {
+      "inputHash": "94dcf8996afe5e8f",
+      "file": "thumbnails/textures/go-table-web/image-2-384a886a.webp.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
 }

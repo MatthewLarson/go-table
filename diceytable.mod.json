@@ -7,7 +7,13 @@
   "entry": {
     "setup": "setup.json"
   },
-  "assets": [],
+  "assets": [
+    "models/go-table.web.glb",
+    "models/go-table.web.meta.json",
+    "textures/go-table-web/image-0-c33ec0f0.webp",
+    "textures/go-table-web/image-1-fb3a26ad.webp",
+    "textures/go-table-web/image-2-384a886a.webp"
+  ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
   },
