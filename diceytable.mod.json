@@ -2,25 +2,14 @@
   "schemaVersion": "1.0",
   "id": "go-table",
   "name": "Go Table",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "table-pack",
   "entry": {
     "setup": "setup.json"
   },
   "assets": [
-    "media/cover-thumb.webp",
-    "media/cover.webp",
-    "media/screenshot-0.webp",
     "models/go-table.web.glb",
     "models/go-table.web.meta.json",
-    "models/go_ghess_board-4k-materialtest.glb",
-    "models/go_ghess_board-4k-materialtest.meta.json",
-    "textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png",
-    "textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png",
-    "textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png",
-    "textures/go-ghess-board-4k-materialtest/normal-e52858a4.png",
-    "textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png",
-    "textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png",
     "textures/go-table-web/image-0-c33ec0f0.webp",
     "textures/go-table-web/image-1-fb3a26ad.webp",
     "textures/go-table-web/image-2-384a886a.webp"
@@ -50,10 +39,10 @@
       "sourceUrl": "https://sketchfab.com/3d-models/go-ghess-board-4k-materialtest-e7c17918e0314d7f8dfd385a71141e27",
       "licenseName": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "recordedAt": "2026-09-20T19:55:42.359Z",
+      "recordedAt": "2026-09-21T00:52:51.422Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T19:55:42.359Z",
+        "acceptedAt": "2026-09-21T00:52:51.422Z",
         "signedName": "Matt Larson"
       }
     },
@@ -93,5 +82,10 @@
         "h": 0.9676810865191148
       }
     }
+  ],
+  "excludedAssets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp"
   ]
 }

@@ -32,51 +32,9 @@
       "width": 256,
       "height": 256
     },
-    "models/go_ghess_board-4k-materialtest.glb": {
-      "inputHash": "c301664efd8b9a56",
-      "file": "thumbnails/models/go_ghess_board-4k-materialtest.glb.webp",
-      "width": 256,
-      "height": 256
-    },
     "originals/go-table.web.glb": {
       "inputHash": "3fa445849ffea012",
       "file": "thumbnails/originals/go-table.web.glb.webp",
-      "width": 256,
-      "height": 256
-    },
-    "textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png": {
-      "inputHash": "5d4f6213f450e3d9",
-      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/diffuse-541fcd42.png.webp",
-      "width": 256,
-      "height": 256
-    },
-    "textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png": {
-      "inputHash": "b6030e28437adf11",
-      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/diffuse-8bea927e.png.webp",
-      "width": 256,
-      "height": 256
-    },
-    "textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png": {
-      "inputHash": "d29ee5140fb12608",
-      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/normal-910a6fe1.png.webp",
-      "width": 256,
-      "height": 256
-    },
-    "textures/go-ghess-board-4k-materialtest/normal-e52858a4.png": {
-      "inputHash": "cd786dbbc7ac1e1f",
-      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/normal-e52858a4.png.webp",
-      "width": 256,
-      "height": 256
-    },
-    "textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png": {
-      "inputHash": "d3f0217c6d8ac6cc",
-      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/roughness-17d0a69c.png.webp",
-      "width": 256,
-      "height": 256
-    },
-    "textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png": {
-      "inputHash": "bfd7ad4a8de25ecf",
-      "file": "thumbnails/textures/go-ghess-board-4k-materialtest/roughness-9b6915a2.png.webp",
       "width": 256,
       "height": 256
     },
